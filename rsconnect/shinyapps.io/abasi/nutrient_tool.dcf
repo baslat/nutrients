@@ -1,0 +1,12 @@
+name: nutrient_tool
+title: nutrient_tool
+username:
+account: abasi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 308248
+bundleId: 1287950
+url: https://abasi.shinyapps.io/nutrient_tool/
+when: 1522046924.78374
+asMultiple: FALSE
+asStatic: FALSE
